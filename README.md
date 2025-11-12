@@ -4,4 +4,6 @@ With today’s cycling computers and smart sensors, bicyclists are able to captu
 
 This notebook is all about *speed*. 
 
-Intuitively, we know the harder that a rider pedals, the faster they go. But there are multiple other factors that could affect speed. If a rider is climbing a hill, for example, much of their power is needed to overcome gravity. A rider who is standing&mdash;not sitting&mdash;is able to generate greater torque on the pedals, but their overall pedal stroke may be less efficient. To understand the relationship between speed and these&mdash;and others& factors, I built a linear model to explore the data recorded by a Garmin Edge device.
+Intuitively, we know the harder that a rider pedals, the faster they go. But there are multiple other factors that could affect speed. If a rider is climbing a hill, for example, much of their power is needed to overcome gravity. A rider who is standing&mdash;not sitting&mdash;is able to generate greater torque on the pedals, but their overall pedal stroke may be less efficient. 
+
+To understand the relationship between speed and these&mdash;and others&dash;factors, I built a linear model to predict a rider's speed based on the data recorded by a Garmin Edge.
